@@ -1,10 +1,10 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
-</p>
+# Indigo Jekyll Template
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+This is the modified version of [Indigo Minimalist Jekyll Template](https://sergiokopplin.github.io/indigo/). The **color scheme** has been updated for both Light and Dark themes. Check out the [Demo](https://smiile8888.github.io/indigo) of this particular version by yourself!
 
-***
+Below is the original words from [Indigo Minimalist Jekyll Template](https://sergiokopplin.github.io/indigo/)
+
+---
 
 <p align="center">
     <b><a href="README.md#what-has-inside">What has inside</a></b>
@@ -14,14 +14,6 @@
     <b><a href="README.md#settings">Settings</a></b>
     |
     <b><a href="README.md#how-to">How to</a></b>
-</p>
-
-<p align="center">
-    Light and Dark themes.
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
 </p>
 
 ## What has inside
@@ -62,6 +54,12 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 ## How To?
 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+
+---
+
+## Acknowledgement and Disclaimer
+
+I would like to thank Sergio Kopplin for his time and effort that he has put in to make the Indigo Minimalist Jekyll Template perfect and free for use. This README.md includes part of original words from the owner of the theme; I do not any intention to copy as my own and not to use as commercial. Please give a visit to the original version at [Sergio Kopplin](https://github.com/sergiokopplin/indigo)
 
 ---
 ## License

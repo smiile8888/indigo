@@ -15,12 +15,12 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# url: https://sergiokopplin.github.io/indigo
+url: https://smiile8888.github.io/indigo
 
 permalink: /:title/
 
@@ -108,6 +108,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-admin
 
 compress_html:
   ignore:
