@@ -16,14 +16,6 @@ Below is the original words from [Indigo Minimalist Jekyll Template](https://ser
     <b><a href="README.md#how-to">How to</a></b>
 </p>
 
-<p align="center">
-    Light and Dark themes.
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
-
 ## What has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
@@ -62,6 +54,12 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 ## How To?
 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+
+---
+
+## Acknowledgement and Disclaimer
+
+I would like to thank Sergio Kopplin for his time and effort that he has put in to make the Indigo Minimalist Jekyll Template perfect and free for use. This README.md includes part of original words from the owner of the theme; I do not any intention to copy as my own and not to use as commercial. Please give a visit to the original version at [Sergio Kopplin](https://github.com/sergiokopplin/indigo)
 
 ---
 ## License
