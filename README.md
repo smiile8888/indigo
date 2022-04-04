@@ -1,10 +1,10 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
-</p>
+# Indigo Jekyll Template
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+This is the modified version of [Indigo Minimalist Jekyll Template](https://sergiokopplin.github.io/indigo/). The **color scheme** has been updated for both Light and Dark themes. Check out the [Demo](https://smiile8888.github.io/indigo) of this particular version by yourself!
 
-***
+Below is the original words from [Indigo Minimalist Jekyll Template](https://sergiokopplin.github.io/indigo/)
+
+---
 
 <p align="center">
     <b><a href="README.md#what-has-inside">What has inside</a></b>
